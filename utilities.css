@@ -1,0 +1,28 @@
+
+#bodyindex {
+    background-image: url(Images/background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+
+#bodygetuigenissen {
+    background-image: url(Images/bpwp1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#bodyprofiel {
+    background-image: url(Images/bpwp1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+  img {
+    width: 500px;
+    display: flex;
+  } 
+
+
